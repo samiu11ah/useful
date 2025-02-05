@@ -98,16 +98,16 @@ You should see a success message like:
 
 When cloning a repository for **user1**, use:  
 ```sh
-git clone git@github-user1:YourUsername/YourRepository.git
+git clone git@github-user1:username/YourRepository.git
 ```
 For **user2**, use:  
 ```sh
-git clone git@github-user2:YourUsername/YourRepository.git
+git clone git@github-user2:username/YourRepository.git
 ```
 
 For existing repositories, update the remote:  
 ```sh
-git remote set-url origin git@github-user2:YourUsername/YourRepository.git
+git remote set-url origin git@github-user2:username/YourRepository.git
 ```
 
 ---
